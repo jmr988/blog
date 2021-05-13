@@ -1,3 +1,3 @@
 # blog
 
-![Demo Animation](../assets/demo.gif?raw=true)
+![symfonyBlog](../assets/comment.png?raw=true)

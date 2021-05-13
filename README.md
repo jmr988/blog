@@ -1,3 +1,3 @@
 # blog
 
-[Demo Animation](../assets/demo.gif?raw=true)
+![Demo Animation](../assets/demo.gif?raw=true)
